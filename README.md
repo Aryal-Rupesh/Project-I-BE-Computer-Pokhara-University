@@ -47,7 +47,7 @@ controlled effectively.
 ## Dataset
 
 We used secondary data collection method for this project. Global COVID-19 dataset 
-provided by Johns Hopkins University which was in CSV format was imported
+provided by Johns Hopkins University which was in CSV format was imported.
 
 
 ## Future Enhancement
