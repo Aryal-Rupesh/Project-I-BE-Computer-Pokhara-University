@@ -1,4 +1,5 @@
-# Project-I-BE-Computer-Pokhara-University "REAL-TIME ATTENDANCE SYSTEM WITH FACE RECOGNITION"
+# Project-I-BE-Computer-Pokhara-University 
+REAL-TIME ATTENDANCE SYSTEM WITH FACE RECOGNITION
 
 ## Project Overview
 
