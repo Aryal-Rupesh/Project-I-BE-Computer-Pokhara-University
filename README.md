@@ -1,5 +1,5 @@
 # Project-I-BE-Computer-Pokhara-University 
-REAL-TIME ATTENDANCE SYSTEM WITH FACE RECOGNITION
+COVID-19-Data-Analysis-And-Prediction-Using-Machine-Learning 
 
 ## Project Overview
 
@@ -52,7 +52,7 @@ provided by Johns Hopkins University which was in CSV format was imported.
 
 ## Future Enhancement
 
-our final model faces the problem of over-fitting. There were some inappropriate data in the dataset which was in contrast. Existence of such data skewed our dataset and removal of such data decreased 
+Our final model faces the problem of over-fitting. There were some inappropriate data in the dataset which was in contrast. Existence of such data skewed our dataset and removal of such data decreased 
 the volume of dataset which was the main reason behind overfitting.
 So, as a future work to clear up the problem of overfitting, we can add more data to the 
 algorithm so that the model will generalize well. Moreover, early stopping, fine-tuning 
