@@ -71,7 +71,7 @@ To set up the project locally, follow these steps:
 
 ## Example usage
 ```bash 
-python manage.py runserver
+python app.py
 ```
 We welcome contributions to this project. To contribute, follow these steps:
 
